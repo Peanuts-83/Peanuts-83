@@ -11,7 +11,7 @@
 [![Javascript](https://img.shields.io/badge/Code-Javascript-info?logo=javascript&logoColor=white&color=f7df12)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 
 [![Angular](https://img.shields.io/badge/Code-Angular_2-info?logo=angular&logoColor=white&color=dd1b16)](https://angular.dev/)
-[![Typescript](https://img.shields.io/badge/Code-Typescript-info?logo=javascript&logoColor=white&color=3178c6)](https://www.typescriptlang.org/)
+[![Typescript](https://img.shields.io/badge/Code-Typescript-info?logo=typescript&logoColor=white&color=3178c6)](https://www.typescriptlang.org/)
 [![ngx-charts](https://img.shields.io/badge/Code-ngx_charts_(d3.js)-info?logo=d3.js&logoColor=white&color=f9a03c)](https://swimlane.gitbook.io/ngx-charts)
 
 [![React](https://img.shields.io/badge/Code-React-info?logo=react&logoColor=white&color=61dafb)](https://react.dev/)
