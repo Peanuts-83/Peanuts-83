@@ -37,3 +37,8 @@
 ### DevOps
 
 [![Docker](https://img.shields.io/badge/DevOps-Docker-info?logo=docker&logoColor=white&color=2496ED)](https://docs.docker.com/)
+
+
+### Documentation
+
+[![Storybook](https://img.shields.io/badge/Doc-Storybook-info?logo=storybook&logoColor=white&color=FF4785)](https://storybook.js.org/)
