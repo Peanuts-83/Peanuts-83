@@ -25,8 +25,8 @@
 [![NextJS](https://img.shields.io/badge/Code-Next.js-info?logo=next.js&logoColor=white&color=000)](https://nextjs.org/)
 
 [![Python](https://img.shields.io/badge/Code-Python-info?logo=python&logoColor=white&color=3776AB)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Code-Django-info?logo=django&logoColor=white&color=092e20)](https://www.djangoproject.com/)
 [![FastApi](https://img.shields.io/badge/Code-FastApi-info?logo=fastapi&logoColor=white&color=009688)](https://fastapi.tiangolo.com/)
+[![Django](https://img.shields.io/badge/Code-Django-info?logo=django&logoColor=white&color=092e20)](https://www.djangoproject.com/)
 
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB-info?logo=mongodb&logoColor=white&color=47a248)](https://www.mongodb.com/)
 [![Firebird](https://img.shields.io/badge/Database-Firebird_(Interbase)-info?logo=interbase&logoColor=white&color=e62431)](https://firebirdsql.org/)
