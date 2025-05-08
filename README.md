@@ -1,6 +1,8 @@
 
 # Welcome to Thomas Ranque's profile [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="24">](https://www.linkedin.com/in/thomas-ranque/)
 
+[**Check out my repositories**](https://github.com/Peanuts-83?tab=repositories)
+
 ### Languages
 
 #### Front-end
